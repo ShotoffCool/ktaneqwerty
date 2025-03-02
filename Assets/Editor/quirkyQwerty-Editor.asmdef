@@ -1,0 +1,10 @@
+{
+  "name": "quirkyQwerty-Editor",
+  "references": [
+    "quirkyQwerty"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
